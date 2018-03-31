@@ -1,0 +1,41 @@
+.cal {
+	border: 2px solid black;
+	border-radius: 20px;
+	}
+
+caption{
+	border: 1px solid black;
+	border-radius: 20px 20px 0px 0px;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bolder;
+	background: gray;
+	color: white;
+	padding-top: 2px;
+}
+
+table{
+	margin: 0px;
+	width: 90%;
+	border-collapse: collapse;
+	
+
+}
+
+
+td {
+	border: 1px solid black;
+	height: 70px;
+	width: 50px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.oddRow{
+	background: tan;
+}
+
+.lastDay{
+	background: lightgreen;
+}
+
